@@ -1,0 +1,22 @@
+{
+  "accounts": [{
+    "name": "LOHOFF,FREDERICK L        ",
+    "accountNumber": "5424180288716233",
+    "statusCode": "32",
+    "statReasonCode": "030",
+    "ficoScore": "-001",
+    "ficoScoreLastUpdatedDate": "0000000",
+    "suppressCollInd": " ",
+    "bankrupt": " ",
+    "writeOff": "0",
+    "deviceHotCard": "0",
+    "sharedLineIndicator": "N",
+    "linkAccountPID": "000",
+    "expireDate": "1190430",
+    "productID": "004",
+    "accountStructure": " ",
+    "accountType": "N",
+    "lastSignOn": "Oct 20, 2016 4:40 PM CST",
+    "ficoUrl": "http://www.myfico.com/crediteducation/whatsinyourscore.aspx"
+  }]
+}

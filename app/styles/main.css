@@ -1,0 +1,10 @@
+
+.welcome-container {
+    margin: 5px;
+    padding: 5px;
+    border-bottom: 1px solid #d3d3d3;
+}
+.lastSignOn {
+    color: #666666;
+    font-size: 0.8em;
+}
